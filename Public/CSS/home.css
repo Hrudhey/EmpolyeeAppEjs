@@ -1,0 +1,73 @@
+
+body {
+    background: linear-gradient(135deg, #f0f8f3, #bdf0e7);
+    font-family: 'Arial', sans-serif;
+    padding-top: 60px; /* Make room for the navbar */
+    animation: fadeIn 1s ease-out;
+  }
+  
+  .navbar {
+    background-color: #a0e2eb;
+  }
+  .navbar a {
+    color: rgb(235, 20, 20) !important;
+  }
+  .container {
+    margin-top: 30px;
+  }
+  .table-container {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+  }
+  .table-title {
+    color: #759eeb;
+    font-size: 26px;
+    font-weight: 600;
+    margin-bottom: 25px;
+  }
+  .table {
+    border-radius: 8px;
+  }
+  .table th, .table td {
+    text-align: center;
+  }
+  .table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f9f9f9;
+  }
+  
+  .btn-primary {
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+  .btn-primary:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+  }
+  
+  /* Animation for fade-in effect */
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 500px) {
+    .navbar {
+      text-align: center;
+    }
+
+
+    .table-container {
+      margin-top: 30px;
+    }
+  }
+  a{
+    text-decoration: none;
+    color: whitesmoke;
+  }

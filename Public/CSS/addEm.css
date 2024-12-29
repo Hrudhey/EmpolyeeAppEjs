@@ -1,0 +1,49 @@
+
+body {
+    background: linear-gradient(135deg, #f0f4f8, #e1e8f0);
+    font-family: 'Arial', sans-serif;
+  }
+  .navbar {
+    background-color: #17a2b8;
+  }
+  .navbar a {
+    color: white !important;
+  }
+  .container {
+    margin-top: 30px;
+  }
+  .form-container {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+  }
+  .form-title {
+    color: #17a2b8;
+    font-size: 26px;
+    font-weight: 600;
+    margin-bottom: 25px;
+  }
+  .btn-primary {
+    background-color: #2268c5;
+    border-color: #285fa7;
+    margin-top: 10px;
+  }
+  .btn-primary:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+  }
+  .form-group label {
+    font-weight: bold;
+    color: #555;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 500px) {
+    .navbar {
+      text-align: center;
+    }
+    .form-container {
+      margin-top: 20px;
+    }
+  }

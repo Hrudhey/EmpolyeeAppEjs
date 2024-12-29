@@ -1,0 +1,73 @@
+[
+    {
+      "EmployeeId": 1,
+      "EmployeeName": "John Doe",
+      "EmployeeDesignation": "Software Engineer",
+      "EmployeeLocation": "New York",
+      "Salary": 85000
+    },
+    {
+      "EmployeeId": 2,
+      "EmployeeName": "Jane Smith",
+      "EmployeeDesignation": "Data Scientist",
+      "EmployeeLocation": "San Francisco",
+      "Salary": 95000
+    },
+    {
+      "EmployeeId": 3,
+      "EmployeeName": "Samuel Green",
+      "EmployeeDesignation": "Product Manager",
+      "EmployeeLocation": "Chicago",
+      "Salary": 105000
+    },
+    {
+      "EmployeeId": 4,
+      "EmployeeName": "Emily White",
+      "EmployeeDesignation": "UX/UI Designer",
+      "EmployeeLocation": "Austin",
+      "Salary": 76000
+    },
+    {
+      "EmployeeId": 5,
+      "EmployeeName": "Michael Brown",
+      "EmployeeDesignation": "Marketing Specialist",
+      "EmployeeLocation": "Boston",
+      "Salary": 72000
+    },
+    {
+      "EmployeeId": 6,
+      "EmployeeName": "Sarah Johnson",
+      "EmployeeDesignation": "HR Manager",
+      "EmployeeLocation": "Los Angeles",
+      "Salary": 88000
+    },
+    {
+      "EmployeeId": 7,
+      "EmployeeName": "David Lee",
+      "EmployeeDesignation": "Sales Executive",
+      "EmployeeLocation": "Seattle",
+      "Salary": 65000
+    },
+    {
+      "EmployeeId": 8,
+      "EmployeeName": "Olivia Taylor",
+      "EmployeeDesignation": "Business Analyst",
+      "EmployeeLocation": "Denver",
+      "Salary": 79000
+    },
+    {
+      "EmployeeId": 9,
+      "EmployeeName": "James Wilson",
+      "EmployeeDesignation": "DevOps Engineer",
+      "EmployeeLocation": "San Francisco",
+      "Salary": 98000
+    },
+    {
+      "EmployeeId": 10,
+      "EmployeeName": "Sophia Harris",
+      "EmployeeDesignation": "Financial Analyst",
+      "EmployeeLocation": "Chicago",
+      "Salary": 76000
+    }
+  ]
+  
